@@ -92,7 +92,10 @@ Try saying:
 📸 Screenshots
 
 ( UI screenshots here)
-![screenshot](https://github.com/user-attachments/assets/0aa44acb-e1e2-48ec-86c7-6ff85203881e)
+![Untitled Project (1)](https://github.com/user-attachments/assets/24cbaa65-6e7f-4f21-9a81-94cc51a6c3ae)
+![Untitled Project](https://github.com/user-attachments/assets/52013019-1c2d-47ac-bb74-f62d50496f01)
+
+
 
 
 
