@@ -92,6 +92,8 @@ Try saying:
 📸 Screenshots
 
 ( UI screenshots here)
+![screenshot](https://github.com/user-attachments/assets/0aa44acb-e1e2-48ec-86c7-6ff85203881e)
+
 
 
 
