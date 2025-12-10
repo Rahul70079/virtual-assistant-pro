@@ -1,7 +1,9 @@
+
 ✨ Build Your Own Virtual Assistant — HTML, CSS & JavaScript
 
 A clean and professional mini project showcasing how to build a fully functional web-based virtual assistant using HTML, CSS, and vanilla JavaScript.
 This project uses the Web Speech API for real-time voice recognition and text-to-speech, allowing users to interact with the assistant using simple voice commands.
+
 
 
 🔹 Features
@@ -23,6 +25,7 @@ This project uses the Web Speech API for real-time voice recognition and text-to
 ⚡ 100% client-side — no backend required
 
 
+
 🔹 Tech Stack
 
 HTML5 — Structure
@@ -32,6 +35,7 @@ CSS3 — Modern UI styling
 JavaScript (ES6) — Logic + Web Speech API
 
 
+
 🔹 Folder Structure
 /index.html
 /style.css
@@ -39,6 +43,7 @@ JavaScript (ES6) — Logic + Web Speech API
 /assets/
 └── icons/
 └── sounds/
+
 
 
 🚀 How to Run
@@ -54,6 +59,8 @@ Click the mic icon and speak
 
 No installation required.
 
+
+
 🔹 Use Cases
 
 College mini project
@@ -63,6 +70,7 @@ Portfolio showcase
 Web Speech API demo
 
 Beginner-friendly AI assistant project
+
 
 
 🧠 Available Voice Commands
@@ -80,15 +88,18 @@ Try saying:
 "Tell me today’s date"
 
 
+
 📸 Screenshots
 
-(Add your UI screenshots here)
+( UI screenshots here)
+
 
 
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to open a PR.
+
 
 📜 License
 
