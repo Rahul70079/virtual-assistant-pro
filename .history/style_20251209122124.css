@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color:black;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    flex-direction: column;
+}
+#logo {
+     width: 20vw;
+}
+h1{
+    color: aliceblue;
+    font-family: "Bitcount Prop Single", system-ui;
+}
+#name{
+    color:rgb(212,43, 122);
+    font-size: 45px;
+}
+#av{
+    color:rgb(45,212,218);
+    font-size: 45px;
+}
+#voice{
+    width:300px;
+}
