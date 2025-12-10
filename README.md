@@ -50,7 +50,7 @@ JavaScript (ES6) — Logic + Web Speech API
 
 Download or clone the repository
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/Rahul70079/virtual-assistant-pro
 
 
 Open index.html in any modern browser
