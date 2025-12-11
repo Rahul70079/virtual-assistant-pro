@@ -46,7 +46,6 @@ JavaScript (ES6) — Logic + Web Speech API
 └── sounds/
 
 
-
     🚀 How to Run
 
 Download or clone the repository
