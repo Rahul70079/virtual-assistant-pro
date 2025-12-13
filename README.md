@@ -1,10 +1,8 @@
 
-
-
     ✨ Build Your Own Virtual Assistant — HTML, CSS & JavaScript
 
-A clean and professional mini project showcasing how to build a fully functional web-based virtual assistant using HTML, CSS, and vanilla JavaScript.
-This project uses the Web Speech API for real-time voice recognition and text-to-speech, allowing users to interact with the assistant using simple voice commands.
+ A clean and professional mini project showcasing how to build a fully functional web-based virtual assistant using HTML, CSS, and vanilla JavaScript.
+ This project uses the Web Speech API for real-time voice recognition and text-to-speech, allowing users to interact with the assistant using simple voice commands.
 
 
 
